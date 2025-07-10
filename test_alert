@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Test Feed</title>
+  <updated>2025-07-10T20:05:00Z</updated>
+  <entry>
+    <title>🚨 Test Alert: Mock Flood Warning</title>
+    <summary>This is a simulated flood alert for testing.</summary>
+    <id>test-alert-001</id>
+    <updated>2025-07-10T20:05:00Z</updated>
+    <link href="https://example.com/fake-flood"/>
+  </entry>
+</feed>
