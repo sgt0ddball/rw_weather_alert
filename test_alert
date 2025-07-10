@@ -5,7 +5,7 @@
   <entry>
     <title>🚨 Test Alert: Mock Flood Warning</title>
     <summary>This is a simulated flood alert for testing.</summary>
-    <id>test-alert-001</id>
+    <id>test-alert-002</id>
     <updated>2025-07-10T20:45:00Z</updated>
     <link href="https://example.com/fake-flood"/>
   </entry>
